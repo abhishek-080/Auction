@@ -1,6 +1,0 @@
-database name: bidding
-
-
-
-login id:admin
-pw:admin
