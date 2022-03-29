@@ -1,0 +1,80 @@
+body{
+  font-family: 'Bentham', serif;
+}
+.navbar{
+	padding: 20px;
+}
+.navbar a{
+    font-size: 18px;
+
+}
+.navbar-brand img{
+	height: 100%;
+}
+.navbar{
+    font-size: 15px;
+    padding: 20px;
+    background-color:#000000;
+}
+.dropdown-submenu li{
+  height: 30px;
+}
+
+
+.table h3{
+  margin-left: 14%;
+  margin-top: 5%;
+}
+.tab{
+  width: 60%;
+  margin-left: 14%;
+}
+
+.viewbox button{
+  margin-left: 15%;
+}
+.addbox button{
+  margin-left: 40px;
+}
+.add form{
+	margin: 10 auto; 
+	width:70%;
+	font-size: 17px;
+}
+
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.container {
+  border-radius: 5px;
+  padding: 20px;
+}
+hr{
+	border: 1px solid black;
+}
+
+
+
+.paging{
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+
+
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+

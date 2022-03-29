@@ -1,0 +1,32 @@
+body{
+  font-family:'Lato', sans-serif;
+}
+.navbar{
+	font-size: 15px;
+	padding: 10px;
+}
+.navbar-brand img{
+	height: 100%;
+}
+.add form{
+	margin: 10 auto; 
+	width:50%;
+	font-size: 17px;
+}
+
+
+input, select, textarea, button {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+hr{
+	border: 1px solid black;
+}

@@ -1,0 +1,77 @@
+  html, body{
+      font-family: 'Bentham', serif;
+
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 1.7;
+      background-color: white;
+  }
+  h1, h2, h3, h4{
+        font-family: 'Bentham', serif;
+  }
+  b, strong{
+      font-weight: 400;
+  }
+
+
+
+  .navbarsecond {
+    padding-top: 1%;
+    padding-left: 18%;
+    padding-bottom: 3%;
+    font-size: 18px;
+    background-color:white;
+    margin-left: -10%;
+  }
+  .navbarsecond .home a{
+    font-size: 18px;
+    background-color: white;
+    color: black;
+  }
+  .navbarsecond .home{
+    float: left;
+    margin-top: 0.5%;
+  }
+  .navbarsecond .dropdown-menu{
+    width: auto;
+  }
+  .navbarsecond .dropdown-menu :hover{
+    background-color: skyblue;
+  }
+
+
+
+
+
+  .ftr{
+    margin-top: 3%;
+    background-color: skyblue;
+    padding: 30px;
+    color: white;
+  }
+
+
+
+
+
+.foot{
+  height:40%;
+  width: auto;
+  background-color:skyblue; 
+  margin-top:30px; 
+  font-color: black;
+}
+.footer{
+  margin-left: 7%;
+}
+.content{
+  margin-top:10%;
+}
+.paging{,
+  float:;
+  margin-top:2%; 
+}
+
+.first{
+  margin-left: -1%;
+}
